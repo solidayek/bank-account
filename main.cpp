@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
+
 using namespace std;
+
 class bankAccount {
 protected:
     std::string name;
